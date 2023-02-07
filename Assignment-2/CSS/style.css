@@ -1,0 +1,45 @@
+/* General CSS for fonts */
+body{
+    margin: 0px;
+    background-color: #1b1b1b;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #f4f4f4;
+    font-size: 35px;
+    font-family: Permanent Marker, sans-serif;
+}
+header{
+    text-align: center;
+    background-color: #0e0e0e;
+    padding: 10px 15px;
+}
+a{
+    color: #363636;
+    text-decoration: none;
+}
+.header-1{
+    color: #f4f4f4;
+    font-family: Yellowtail, sans-serif;
+    font-size: 50px;
+}
+.artist{
+    font-size: 30px;
+}
+.italic {
+    font-family: Rubik Mono One, sans-serif;
+    color: rgb(255, 0, 119);
+}
+.echo-1 {
+    font-size: 30px;
+    color: #df3bf5;
+}
+.echo-wave{
+    font-family: Rubik Mono One, sans-serif;
+    font-size: 30px;
+    color: rgb(119, 0, 255);
+}
+.bridge {
+    font-family: Yellowtail, sans-serif;
+    font-size: 35px;
+}
